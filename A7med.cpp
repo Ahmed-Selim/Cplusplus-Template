@@ -40,7 +40,7 @@ int main()
 	//freopen("output.txt", "w", stdout);
 #endif
 
-	// Your Code Go Here :D
+	#TODO
 
 	return 0;
 }
